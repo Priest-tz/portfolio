@@ -1,1 +1,105 @@
-html,body{margin:0;padding:0;height:100%;font-size:1rem;font-family:'Montserrat',sans-serif;color:whitesmoke;scroll-behavior:smooth}.navbar-brand{font-weight:800;font-size:36px;color:#333}.navbar-nav>li{padding-left:30px;padding-right:30px}.nav-link{font-size:16px;font-weight:400}.nav-item a:hover{font-size:20px;font-weight:600;color:#000;transition:.3s ease-in-out}.page-header{margin-top:4rem;font-size:1.25rem;color:#000;min-height:100vh}.page-header .social-media a{padding:5px;color:#000;text-decoration:none}.emoji{font-size:1rem}.stack{height:auto;background-color:whitesmoke}.articles{color:#000;width:auto}.articles a{text-decoration:none;color:#000}.articles footer{margin-top:auto}.project{height:auto;background-color:whitesmoke;color:#000}.project-container{background-color:#f7f7f7;padding:20px;border-radius:10px;margin-bottom:20px;padding:10px}footer{color:#000;font-size:1rem;margin:0;padding:1rem}footer a{font-size:16px;background-color:whitesmoke;color:#000;text-decoration:none}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&display=swap');
+ 
+html,body{
+  margin:0;
+  padding:0;
+  height:100%;
+  font-size:1rem;
+  font-family:'Montserrat',sans-serif;
+  color:whitesmoke;
+  scroll-behavior:smooth
+}
+
+.navbar-brand{
+  font-weight:400;
+  font-size:36px;         
+  color:#333
+}
+  
+  .navbar-nav>li{
+    padding-left:30px;
+    padding-right:30px
+  }
+  .nav-link{
+    font-size:16px;
+    font-weight:400
+  }
+  .nav-item a:hover{
+    font-size:20px;
+    font-weight:5   00;
+    color:#000;
+    transition:.3s ease-in-out
+  }
+    
+  .page-header{
+      margin-top:4rem;
+      font-size:1.25rem;
+      color:#000;
+      min-height:100vh
+    }
+
+    .page-header h1{
+      font-size: 48px;
+      font-weight: 500;
+    }
+
+    .page-header h3{
+      font-weight: 400;
+    }
+    
+    .page-header .social-media a{
+      padding:5px;
+      color:#000;
+      text-decoration:none
+    }
+    
+    .emoji{
+      font-size:1rem
+    }
+    
+    .stack{
+      height:auto;
+      background-color:whitesmoke
+    }
+    
+    .articles{
+      color:#000;
+      width:auto
+    }
+    
+    .articles a{
+      text-decoration:none;
+      color:#000
+    }
+    
+    .articles footer{
+      margin-top:auto
+    }
+    
+    .project{
+      height:auto;
+      background-color:whitesmoke;
+      color:#000
+    }
+    
+    .project-container{
+      background-color:#f7f7f7;
+      padding:20px;
+      border-radius:10px;
+      margin-bottom:20px;
+      padding:10px
+    }
+    
+    footer{
+      color:#000;
+      font-size:1rem;
+      margin:0;
+      padding:1rem
+    }
+    
+    footer a{
+      font-size:16px;
+      background-color:whitesmoke;
+      color:#000;
+      text-decoration:none
+    }

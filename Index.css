@@ -127,6 +127,10 @@ body {
 	max-width: 800px;
 }
 
+.projectCard .loginDetails{
+	margin-top: 12px;
+}
+
 .links {
 	display: flex;
 	align-items: center;
